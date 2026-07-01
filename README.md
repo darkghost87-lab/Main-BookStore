@@ -9,6 +9,12 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ---
+## 🌐 دموی زنده
+
+پروژه به صورت زنده روی GitHub Pages در دسترس است:
+
+👉 [مشاهده mianbookstore]( https://darkghost87-lab.github.io/Main-BookStore/)
+
 
 ## 📖 درباره‌ی پروژه
 
