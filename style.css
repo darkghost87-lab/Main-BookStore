@@ -181,6 +181,17 @@ nav {
     background-color: lightblue;
     border-radius: 10px;
     font-size: clamp(0.8rem, 1vw, 2rem);
+    transition: all 0.7s ease;
+}
+
+.main-contact-btn:hover {
+    transform: scale(1.1);
+    background-color: #57a5bd;
+    border: 1px solid #76ddfc;
+}
+
+.main-contact-btn:hover a {
+    color: #000000ad;
 }
 
 #about {
@@ -457,6 +468,11 @@ nav {
         width: 100px;
         height: 1.5rem;
     }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        display: none !important;
+    }
 }
 
 @media only screen and (max-width: 767px) {
@@ -557,6 +573,11 @@ nav {
     .login {
         width: 80px;
         height: 1.5rem;
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        display: none !important;
     }
 }
 
